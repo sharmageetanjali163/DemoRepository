@@ -10,6 +10,8 @@ namespace AnnotationEg
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Demo Repository");
+
         }
     }
 }
